@@ -240,6 +240,15 @@
   color: var(--text-light);
 }
 
+.faq-answer ol {
+  list-style: decimal;
+  padding-left: 1.5em;
+}
+
+.faq-answer ol li {
+  margin-bottom: 1em;
+}
+
 /* CTA Section */
 .hygiena-cta {
   padding: 80px 0;
